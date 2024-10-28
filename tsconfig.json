@@ -7,7 +7,7 @@
     "strict": true,
     "skipLibCheck": true,
     "moduleResolution": "node",
-    "outDir": "./lib",
+    "outDir": "./dist",
     "noImplicitAny": false,
     "resolveJsonModule": true
   },
@@ -16,6 +16,6 @@
   ],
   "exclude": [
     "node_modules",
-    "lib"
+    "dist"
   ]
 }
